@@ -1,6 +1,6 @@
 # Aula ATECA — Documentación e Ingeniería de Inteligencia Artificial
 
-> Portafolio técnico y documentación de proyectos de Inteligencia Artificial desarrollados en el **Aula ATECA**. Incluye desde el desarrollo de modelos desde cero hasta técnicas de optimización, cuantización y despliegue en hardware local.
+> Portafolio técnico y documentación de proyectos de Inteligencia Artificial desarrollados en el **Aula ATECA del instituto Calderón del Barca de Pinto**. Incluye desde el desarrollo de modelos desde cero hasta técnicas de optimización, cuantización y despliegue en hardware local.
 
 🌐 **Demo en vivo:** [Documentación Aula ATECA](https://ivanzsasz.github.io/Documentacion-IA/AULA_ATECA/)
 
