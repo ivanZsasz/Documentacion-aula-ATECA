@@ -41,7 +41,6 @@ Documentacion-IA/
     ├── PreEntrenamiento/     # Registro de entrenamiento de Cervantes-GPT
     └── Destilacion/          # Documentación de destilación Profesor-Estudiante
 
----
 
 ## ⚙️ Requisitos e Instalación
 
