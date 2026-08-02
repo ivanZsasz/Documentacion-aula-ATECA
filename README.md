@@ -40,3 +40,20 @@ Documentacion-IA/
     ├── Cuantizacion/         # Proceso de compilación de llama.cpp y GGUF
     ├── PreEntrenamiento/     # Registro de entrenamiento de Cervantes-GPT
     └── Destilacion/          # Documentación de destilación Profesor-Estudiante
+
+---
+
+## ⚙️ Requisitos e Instalación
+
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone [https://github.com/ivanZsasz/Documentacion-IA.git](https://github.com/ivanZsasz/Documentacion-IA.git)
+    ```
+2.  **Abrir el proyecto:**
+    Navegar a la carpeta `AULA_ATECA/` y abrir el archivo `index.html` en cualquier navegador web o desplegar con la extensión *Live Server* en VS Code.
+
+---
+
+## 📄 Licencia
+
+Proyecto desarrollado dentro del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el espacio **Aula ATECA**.
