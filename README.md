@@ -28,19 +28,6 @@
 
 ---
 
-## 📁 Estructura del Repositorio
-
-```text
-Documentacion-IA/
-└── AULA_ATECA/
-    ├── index.html            # Landing page principal del portafolio
-    ├── CreacionLLM/          # Documentación técnica del LLM en PyTorch
-    ├── Fine-Tunning/         # Guía de ajuste fino con MLX y LoRA
-    ├── Agente/               # Configuración del entorno local de desarrollo
-    ├── Cuantizacion/         # Proceso de compilación de llama.cpp y GGUF
-    ├── PreEntrenamiento/     # Registro de entrenamiento de Cervantes-GPT
-    └── Destilacion/          # Documentación de destilación Profesor-Estudiante
-
 
 ## ⚙️ Requisitos e Instalación
 
@@ -56,3 +43,20 @@ Documentacion-IA/
 ## 📄 Licencia
 
 Proyecto desarrollado dentro del Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el espacio **Aula ATECA**.
+
+---
+
+## 📁 Estructura del Repositorio
+
+```text
+Documentacion-IA/
+└── AULA_ATECA/
+    ├── index.html            # Landing page principal del portafolio
+    ├── CreacionLLM/          # Documentación técnica del LLM en PyTorch
+    ├── Fine-Tunning/         # Guía de ajuste fino con MLX y LoRA
+    ├── Agente/               # Configuración del entorno local de desarrollo
+    ├── Cuantizacion/         # Proceso de compilación de llama.cpp y GGUF
+    ├── PreEntrenamiento/     # Registro de entrenamiento de Cervantes-GPT
+    └── Destilacion/          # Documentación de destilación Profesor-Estudiante
+
+
